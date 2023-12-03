@@ -16,9 +16,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -34,16 +32,6 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -53,101 +41,59 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="## 🌟 Data Science Essentials:">Data Science Essentials</a></li>
+    <li><a href="## 🌟 Building Recommendation Systems:">Building Recommendation Systems</a></li>
+    <li><a href="## 🌟 Advanced Model Techniques & Applications:">Advanced Model Techniques & Applications</a></li>
+    <li><a href="## 🌟 World of Large Language Models (LLMs):">LLM's</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## 🌟 Data Science Essentials:
+📌 (Field Overview & Buzz Words:) [youtu.be/maxyUZGB3QY]
+📌 (Ongoing Interviewing Trends:) [youtu.be/XrZXojl5Zd8]
+📌 (Linear Regression Guide:) [lnkd.in/gdRsMHbn]
+📌 (Logistic Regression Playlist:) [lnkd.in/gtPfmQUv]
+📌 (Classification Metrics: youtu).[be/E2HRSJKU-_4]
+📌 (Naive Bayes Classifier:) [youtu.be/IvTCdrx1SHQ]
+📌 (Variable Types: youtu).[be/Y6PEpkEdXDQ]
+📌 (Dimensionality Reduction: lnkd).[in/gC6XQfez]
+📌 (Entropy, Cross-Entropy,KL-Divergence:) [lnkd.in/gSXh8ZX8]
+📌 (Dynamic Pricing Overview:) [youtu.be/a_CXpnsvPa0]
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+## 🌟 Building Recommendation Systems:
+📌 (Training Embeddings:) [youtu.be/DN4S96oHRhE]
+📌 (Annoy for Approximate Nearest Neighbor:) [youtu.be/DSQOrBTqmYA]
+📌 (Product Quantizer for ANN:) [youtu.be/50PNumB7s3U]
+📌 (Model-Based Account Recommendations:) [youtu.be/Xqo8fwgjxW4]
+📌 (PID Controller for Diversity:) [youtu.be/laTxgnzjfR0]
+📌 (Instagram’s Recommendation System:) [youtu.be/Myna6rnmCG8]
+📌 (Linkedin's CTR Modeling:) [youtu.be/7l0HLYVFEuU]
+📌 (Meituan's Two-Tower Recsys Model:) [youtu.be/UhpbTSbi3lI]
+📌 (Scalable Query-Item Two-Tower Model: yout)u.[be/o-pZk5R0TZg]
+📌 (Twitter's Recommendation Algorithm:) [youtu.be/IhGq9jgcxFM]
+📌 (eBay's Next-Gen Language Model for Recsys:) [youtu.be/h51nbWr7feo]
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+## 🌟 Advanced Model Techniques & Applications:
+📌 (Model Calibration Importance:) [youtu.be/rG2EfFOXyg0]
+📌 (Data Drift Detection & Monitoring:) [youtu.be/tQjRQWfYQ10]
+📌 (Train Neural Networks for Universal Function Approximation:) [youtu.be/4PvGKuqRQTE]
+📌 (Analytics-driven Ads with Pinterest:) [youtu.be/KEiBJ0fal3Q]
+📌 (Leveraging Pre-trained Bert to generate Entity Embeddings:) [youtu.be/v-0J7o-nDBE]
+📌 (Model Compression with Knowledge Distillation:) [youtu.be/1N_EBJUOjVU]
 
 
+## 🌟 World of Large Language Models (LLMs):
+📌 (Conversational AI: Tech behind Chat-GPT:) [youtu.be/JKoJ5YIr2O4]
+📌 (Dual Nature of Conversational LLMs:) [youtu.be/MHfzoHC4kek]
+📌 (Pushing LLM Boundaries Sparse & Flash Attention, Quantisation, Pruning, Distillation, LORA :) [youtu.be/mF7OM_XU2S4]
+📌 (Enhancing opensource-LLM Performance by Finetuning:) [youtu.be/lo11Iczb0Vc], [youtu.be/paGr-t1wSOQ]
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
+For a list of proposed features (and known issues) raise a pull
 
 
 <!-- CONTRIBUTING -->
@@ -173,9 +119,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@aayush](https://www.linkedin.com/in/aayush96/) - ayuc140@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/i-aayush/Industry_aiml](https://github.com/i-aayush/Industry_aiml)
 
 
 
@@ -210,5 +156,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/aayush96/
 [product-screenshot]: images/screenshot.png
