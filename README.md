@@ -1,8 +1,8 @@
-# AIML Industry Applications Videos
+# AIML Industry Applications Videos 🤖🎥
 
-Welcome to the repository containing videos showcasing various applications in Artificial Intelligence and Machine Learning within industries.
+Welcome to the repository showcasing various applications of Artificial Intelligence and Machine Learning within industries. Explore the videos below to dive into the fascinating world of AI and ML applications!
 
-## Table of Contents
+## Table of Contents 📜
 - [Data Science Essentials](#data-science-essentials)
 - [Building Recommendation Systems](#building-recommendation-systems)
 - [Advanced Model Techniques & Applications](#advanced-model-techniques--applications)
@@ -12,7 +12,7 @@ Welcome to the repository containing videos showcasing various applications in A
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-## Data Science Essentials
+## Data Science Essentials 📊🔍
 - [Field Overview & Buzz Words](https://youtu.be/maxyUZGB3QY)
 - [Ongoing Interviewing Trends](https://youtu.be/XrZXojl5Zd8)
 - [Linear Regression Guide](https://lnkd.in/gdRsMHbn)
@@ -24,7 +24,7 @@ Welcome to the repository containing videos showcasing various applications in A
 - [Entropy, Cross-Entropy, KL-Divergence](https://lnkd.in/gSXh8ZX8)
 - [Dynamic Pricing Overview](https://youtu.be/a_CXpnsvPa0)
 
-## Building Recommendation Systems
+## Building Recommendation Systems 🛒📜
 - [Training Embeddings](https://youtu.be/DN4S96oHRhE)
 - [Annoy for Approximate Nearest Neighbor](https://youtu.be/DSQOrBTqmYA)
 - [Product Quantizer for ANN](https://youtu.be/50PNumB7s3U)
@@ -37,7 +37,7 @@ Welcome to the repository containing videos showcasing various applications in A
 - [Twitter's Recommendation Algorithm](https://youtu.be/IhGq9jgcxFM)
 - [eBay's Next-Gen Language Model for Recsys](https://youtu.be/h51nbWr7feo)
 
-## Advanced Model Techniques & Applications
+## Advanced Model Techniques & Applications 🚀🧠
 - [Model Calibration Importance](https://youtu.be/rG2EfFOXyg0)
 - [Data Drift Detection & Monitoring](https://youtu.be/tQjRQWfYQ10)
 - [Train Neural Networks for Universal Function Approximation](https://youtu.be/4PvGKuqRQTE)
@@ -45,27 +45,27 @@ Welcome to the repository containing videos showcasing various applications in A
 - [Leveraging Pre-trained Bert to generate Entity Embeddings](https://youtu.be/v-0J7o-nDBE)
 - [Model Compression with Knowledge Distillation](https://youtu.be/1N_EBJUOjVU)
 
-## World of Large Language Models (LLMs)
+## World of Large Language Models (LLMs) 💬🧠
 - [Conversational AI: Tech behind Chat-GPT](https://youtu.be/JKoJ5YIr2O4)
 - [Dual Nature of Conversational LLMs](https://youtu.be/MHfzoHC4kek)
 - [Pushing LLM Boundaries Sparse & Flash Attention, Quantisation, Pruning, Distillation, LORA](https://youtu.be/mF7OM_XU2S4)
-- [Enhancing opensource-LLM Performance by Finetuning](https://youtu.be/lo11Iczb0Vc), [Finetuning Part 2](https://youtu.be/paGr-t1wSOQ)
+- [Enhancing opensource-LLM Performance by Finetuning](https://youtu.be/lo11Iczb0Vc), [Part 2](https://youtu.be/paGr-t1wSOQ)
 
-## Contributing
+## Contributing 🤝🌟
 
 Contributions are welcome! Feel free to raise a pull request or open an issue for any suggestions or improvements.
 
-## License
+## License 📄
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
+## Contact 📧👋
 
 Aayush Chaudhary - [LinkedIn](https://www.linkedin.com/in/aayush96/) - ayuc140@gmail.com
 
 Project Link: [https://github.com/i-aayush/Industry_aiml](https://github.com/i-aayush/Industry_aiml)
 
-## Acknowledgements
+## Acknowledgements 🙏🌟
 
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 - [Img Shields](https://shields.io)
